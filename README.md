@@ -3,7 +3,7 @@ __elixir-pdx/success__
 ---
 #Overview
 
-This project is designed to be an introduction to [types and typespecs]((http://elixir-lang.org/docs/stable/elixir/typespecs.html) in Elixir.
+This project is designed to be an introduction to [types and typespecs](http://elixir-lang.org/docs/stable/elixir/typespecs.html) in Elixir.
 
 The type-checking system for Elixir is inherited from Erlang and is based on a concept called "Success Types".  For more information on the nuts and bolts behind success typing you can [go here](http://user.it.uu.se/~kostis/Papers/succ_types.pdf) (PDF).
 
